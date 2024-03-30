@@ -53,5 +53,3 @@ The main objective of the analysis is to predict price using machine learning al
 - **Evaluating Predictions**: Model performance is evaluated using appropriate evaluation metrics.
 
 - **Visualizing Predictions**: Visualizations are created to compare predicted prices with actual prices and assess model accuracy.
-
-The README provides an overview of the analysis process, detailing each step involved in preprocessing the data and building predictive models. This documentation serves as a guide for understanding the analysis workflow and the methodologies employed in predicting prices.
